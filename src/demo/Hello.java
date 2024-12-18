@@ -6,6 +6,7 @@ public class Hello {
 		System.out.println("hello world!");
 		System.out.println("WELCOME TO SDS");
 		System.out.println("create a firstbranch");
+		System.out.println("create a firstbranch from github");
 
 	}
 
